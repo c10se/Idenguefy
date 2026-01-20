@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['darkbackground_0',['darkBackground',['../class_idenguefy_1_1_boundaries_1_1_settings_view.html#a72b18da187b7d3e6f99804c31fa1b4ed',1,'Idenguefy::Boundaries::SettingsView']]],
+  ['darkmodebutton_1',['darkModeButton',['../class_idenguefy_1_1_boundaries_1_1_settings_view.html#ab86c39f36110521944fa854af2cb856f',1,'Idenguefy::Boundaries::SettingsView']]],
+  ['darktext_2',['darkText',['../class_idenguefy_1_1_boundaries_1_1_settings_view.html#a765b370e4c786fd5c79741591122860a',1,'Idenguefy::Boundaries::SettingsView']]],
+  ['darktheme_3',['darkTheme',['../class_idenguefy_1_1_controllers_1_1_theme_manager.html#a53a031a9ea266d0210e5c31f69103f63',1,'Idenguefy::Controllers::ThemeManager']]],
+  ['data_4',['data',['../class_idenguefy_1_1_controllers_1_1_n_e_a___cluster___a_p_i___handler_1_1_api_response.html#a974919e80ef9dd5e73733a9c3292032e',1,'Idenguefy::Controllers::NEA_Cluster_API_Handler::ApiResponse']]],
+  ['datalist_5',['dataList',['../class_idenguefy_1_1_controllers_1_1_data_manager-1-g.html#af8f2b955deda6e22d040e229cae98411',1,'Idenguefy::Controllers::DataManager-1-g']]],
+  ['datamanager_6',['dataManager',['../class_idenguefy_1_1_controllers_1_1_pointer_controller.html#aae1ccf03620a463301064678d5eca07a',1,'Idenguefy.Controllers.PointerController.dataManager'],['../class_idenguefy_1_1_controllers_1_1_settings_controller.html#af1e9b0c6c34616e992ed122fb3888c20',1,'Idenguefy.Controllers.SettingsController.dataManager']]],
+  ['datasetid_7',['datasetId',['../class_idenguefy_1_1_controllers_1_1_n_e_a___cluster___a_p_i___handler.html#af79b1348d07b7dcb2ae3caf617b8a2a8',1,'Idenguefy::Controllers::NEA_Cluster_API_Handler']]],
+  ['delaybetweenrequestsms_8',['DelayBetweenRequestsMs',['../class_idenguefy_1_1_controllers_1_1_localization_manager.html#a02e025ecf47d0b30963a1982502192c7',1,'Idenguefy::Controllers::LocalizationManager']]],
+  ['deletebutton_9',['deleteButton',['../class_idenguefy_1_1_boundaries_1_1_pointer_renderer.html#a5ba3913fecb13b15554074f0baf3ff31',1,'Idenguefy::Boundaries::PointerRenderer']]],
+  ['deletepanel_10',['deletePanel',['../class_idenguefy_1_1_boundaries_1_1_pointer_view.html#a10ff7b4a6b02a3a31cb67bb18fa3c8fb',1,'Idenguefy::Boundaries::PointerView']]],
+  ['dropdownarrowcolor_11',['dropdownArrowColor',['../class_idenguefy_1_1_entities_1_1_theme_data.html#a3f447cd777c042dcd84cb23be58cb4c5',1,'Idenguefy::Entities::ThemeData']]],
+  ['dropdownbackgroundcolor_12',['dropdownBackgroundColor',['../class_idenguefy_1_1_entities_1_1_theme_data.html#a5e63a090a7706e24b52bfd60d252b740',1,'Idenguefy::Entities::ThemeData']]],
+  ['dropdownhighlightcolor_13',['dropdownHighlightColor',['../class_idenguefy_1_1_entities_1_1_theme_data.html#ab81ab36c82575dceabdb290578c3050e',1,'Idenguefy::Entities::ThemeData']]],
+  ['dropdowntargets_14',['dropdownTargets',['../class_idenguefy_1_1_boundaries_1_1_theme_applier.html#a049a760279d3b998f3d5199462bb53ca',1,'Idenguefy::Boundaries::ThemeApplier']]],
+  ['dropdowntextcolor_15',['dropdownTextColor',['../class_idenguefy_1_1_entities_1_1_theme_data.html#a7287f6e084e917cda841f8aff4594763',1,'Idenguefy::Entities::ThemeData']]],
+  ['dualareainput_16',['dualAreaInput',['../class_idenguefy_1_1_boundaries_1_1_pointer_view.html#afa4f41cfa4bbccb35123946e5fc7f4fc',1,'Idenguefy::Boundaries::PointerView']]],
+  ['dualnameinput_17',['dualNameInput',['../class_idenguefy_1_1_boundaries_1_1_pointer_view.html#ab17735c02cbf5b761ed45f1782911b1f',1,'Idenguefy::Boundaries::PointerView']]],
+  ['dualnoteinput_18',['dualNoteInput',['../class_idenguefy_1_1_boundaries_1_1_pointer_view.html#aaa3a01f40cfe641789b0b6622834af3c',1,'Idenguefy::Boundaries::PointerView']]],
+  ['dualpointeranimator_19',['dualPointerAnimator',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#ab325ea9bbecc2c88b69d897bf869d618',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['dualpointerisexpanded_20',['dualPointerIsExpanded',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a8f488e440a1988f5572023253c58e708',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['dualpurposepanel_21',['dualPurposePanel',['../class_idenguefy_1_1_boundaries_1_1_pointer_view.html#a44780d1cf8f32f39071582b4c2b2e1e0',1,'Idenguefy::Boundaries::PointerView']]],
+  ['dualpurposetitle_22',['dualPurposeTitle',['../class_idenguefy_1_1_boundaries_1_1_pointer_view.html#aa10e3c793f5a1f21e7a655c7da437340',1,'Idenguefy::Boundaries::PointerView']]],
+  ['durationthreshold_23',['durationThreshold',['../class_idenguefy_1_1_controllers_1_1_alert_manager.html#ab874b4aa67661453cc49a8e77efb7a97',1,'Idenguefy::Controllers::AlertManager']]]
+];

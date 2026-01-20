@@ -1,0 +1,1411 @@
+fileFormatVersion: 2
+guid: 49680e2aab873c54fb0f7ebe242857b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6973380106780880084
+    second: Dark Mode2_0
+  - first:
+      213: -1319732980207079788
+    second: Dark Mode2_1
+  - first:
+      213: -1733406574184508738
+    second: Dark Mode2_2
+  - first:
+      213: -2025114973859763117
+    second: Dark Mode2_3
+  - first:
+      213: -909550687740571037
+    second: Dark Mode2_4
+  - first:
+      213: -6472227427792731835
+    second: Dark Mode2_5
+  - first:
+      213: 932631251661026245
+    second: Dark Mode2_6
+  - first:
+      213: -791846904355751000
+    second: Dark Mode2_7
+  - first:
+      213: 5455873020540040145
+    second: Dark Mode2_8
+  - first:
+      213: -68437731649267509
+    second: Dark Mode2_9
+  - first:
+      213: 3713727562397591649
+    second: Dark Mode2_10
+  - first:
+      213: 3110100248674542998
+    second: Dark Mode2_11
+  - first:
+      213: -5887081559837369312
+    second: Dark Mode2_12
+  - first:
+      213: -506695054910109813
+    second: Dark Mode2_13
+  - first:
+      213: -8285832413274638628
+    second: Dark Mode2_14
+  - first:
+      213: -2377382378230166378
+    second: Dark Mode2_15
+  - first:
+      213: -565926364633398984
+    second: Dark Mode2_16
+  - first:
+      213: -213934851640260997
+    second: Dark Mode2_17
+  - first:
+      213: -3575016722257728946
+    second: Dark Mode2_18
+  - first:
+      213: -2890810839957049029
+    second: Dark Mode2_19
+  - first:
+      213: 2714734210794227761
+    second: Dark Mode2_20
+  - first:
+      213: 3436206081912882537
+    second: Dark Mode2_21
+  - first:
+      213: -7711876864053388243
+    second: Dark Mode2_22
+  - first:
+      213: -1113744281523362884
+    second: Dark Mode2_23
+  - first:
+      213: -797783945286362711
+    second: Dark Mode2_24
+  - first:
+      213: -4793681815985549873
+    second: Dark Mode2_25
+  - first:
+      213: -5025706528813252723
+    second: Dark Mode2_26
+  - first:
+      213: 5006210971954962069
+    second: Dark Mode2_27
+  - first:
+      213: 1527492601966013217
+    second: Dark Mode2_28
+  - first:
+      213: -8373119525897384732
+    second: Dark Mode2_29
+  - first:
+      213: -8282438370556025159
+    second: Dark Mode2_30
+  - first:
+      213: 9043087833549989679
+    second: Dark Mode2_31
+  - first:
+      213: 3772055208011281679
+    second: Dark Mode2_32
+  - first:
+      213: 7699965709620857165
+    second: Dark Mode2_33
+  - first:
+      213: -8400574628494108679
+    second: Dark Mode2_34
+  - first:
+      213: 1321195108022611587
+    second: Dark Mode2_35
+  - first:
+      213: -489923322529348721
+    second: Dark Mode2_36
+  - first:
+      213: 7101220650606457407
+    second: Dark Mode2_37
+  - first:
+      213: 5614392299110387525
+    second: Dark Mode2_38
+  - first:
+      213: 6158447869164071862
+    second: Dark Mode2_39
+  - first:
+      213: -7751584905690270041
+    second: Dark Mode2_40
+  - first:
+      213: -1537974455295242261
+    second: Dark Mode2_41
+  - first:
+      213: -1514174374572799080
+    second: Dark Mode2_42
+  - first:
+      213: 2472720988618484788
+    second: Dark Mode2_43
+  - first:
+      213: -5506614872770196997
+    second: Dark Mode2_44
+  - first:
+      213: 4562520936363684310
+    second: Dark Mode2_45
+  - first:
+      213: -8668066665528780688
+    second: Dark Mode2_46
+  - first:
+      213: 890726676185463097
+    second: Dark Mode2_47
+  - first:
+      213: 8494052728283145126
+    second: Dark Mode2_48
+  - first:
+      213: 1709527472728420789
+    second: Dark Mode2_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Mode2_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1833
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23dc8b4db3993f90800000000000000
+      internalID: -6973380106780880084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1833
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea364c8dd5fade0800000000000000
+      internalID: -1319732980207079788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_2
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1833
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2d76e97e3b1f7e0800000000000000
+      internalID: -1733406574184508738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_3
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1833
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ca3c929a855e3e0800000000000000
+      internalID: -2025114973859763117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_4
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1833
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362d200f770a063f0800000000000000
+      internalID: -909550687740571037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1833
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541cfdc12770e26a0800000000000000
+      internalID: -6472227427792731835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_6
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1843
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3fead9e2f51fc00800000000000000
+      internalID: 932631251661026245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_7
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1833
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abf1659f6bc205f0800000000000000
+      internalID: -791846904355751000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_8
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1843
+        width: 1147
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33de01b9727bb40800000000000000
+      internalID: 5455873020540040145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1590
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8dfc3ee3cdc0ff0800000000000000
+      internalID: -68437731649267509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1594
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1682945ba8fc98330800000000000000
+      internalID: 3713727562397591649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_11
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1590
+        width: 202
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695a91ab2bb492b20800000000000000
+      internalID: 3110100248674542998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_12
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1600
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c142e2382ec4ea0800000000000000
+      internalID: -5887081559837369312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_13
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1600
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87c2aa388bd7f8f0800000000000000
+      internalID: -506695054910109813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_14
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1604
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6f852025fc20d80800000000000000
+      internalID: -8285832413274638628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_15
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1590
+        width: 201
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c415aa257d10fd0800000000000000
+      internalID: -2377382378230166378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_16
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1574
+        width: 1146
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8318ff248fc6528f0800000000000000
+      internalID: -565926364633398984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1435
+        width: 874
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7608eac263f70df0800000000000000
+      internalID: -213934851640260997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_18
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1376
+        width: 874
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 120, y: 0, z: 120, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a2fbb7b3df26ec0800000000000000
+      internalID: -3575016722257728946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_19
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1407
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31f2837bd6c1e7d0800000000000000
+      internalID: -2890810839957049029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_20
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 271
+        width: 1145
+        height: 1225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388df5a16caca520800000000000000
+      internalID: 2714734210794227761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1342
+        width: 874
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9654477c93bdfaf20800000000000000
+      internalID: 3436206081912882537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_22
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 300
+        width: 874
+        height: 1051
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c5b86f9d8e9f490800000000000000
+      internalID: -7711876864053388243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1237
+        width: 578
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb36d211a7f2b80f0800000000000000
+      internalID: -1113744281523362884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_24
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1222
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a952b58ab3bde4f0800000000000000
+      internalID: -797783945286362711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_25
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 416
+        width: 37
+        height: 873
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd8eef49cb697db0800000000000000
+      internalID: -4793681815985549873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_26
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1107
+        width: 37
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f79b41a8a114ab0800000000000000
+      internalID: -5025706528813252723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_27
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 414
+        width: 38
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed90eda52a97540800000000000000
+      internalID: 5006210971954962069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_28
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1105
+        width: 38
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ba831bd6eb23510800000000000000
+      internalID: 1527492601966013217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1055
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eccff46724bccb80800000000000000
+      internalID: -8373119525897384732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_30
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1004
+        width: 359
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b661f82f2ede0d80800000000000000
+      internalID: -8282438370556025159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 965
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276767e8708f7d70800000000000000
+      internalID: 9043087833549989679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 860
+        width: 359
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05bcaaf938095430800000000000000
+      internalID: 3772055208011281679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 874
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49c3a84406cbda60800000000000000
+      internalID: 7699965709620857165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_42
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 704
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7137f22e92b6b80800000000000000
+      internalID: -8400574628494108679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_36
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 731
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38eeba463f3d55210800000000000000
+      internalID: 1321195108022611587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_37
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 665
+        width: 258
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83857975517339f0800000000000000
+      internalID: -489923322529348721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_38
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 680
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32f01fce8a9c8260800000000000000
+      internalID: 7101220650606457407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 569
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fc92abc045aed40800000000000000
+      internalID: 5614392299110387525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 586
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a63d021996dc6490800000000000000
+      internalID: -7751584905690270041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_41
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 495
+        width: 258
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef8086a16408aae0800000000000000
+      internalID: -1537974455295242261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_44
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 511
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc693cd629cfae0800000000000000
+      internalID: -1514174374572799080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_43
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 429
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d17d3c4e94515f30800000000000000
+      internalID: 4562520936363684310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 295
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07890c70b47d4b780800000000000000
+      internalID: -8668066665528780688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_46
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 123
+        width: 209
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939bff5513f7c5c00800000000000000
+      internalID: 890726676185463097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_47
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 116
+        width: 209
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a321c4f3ffe0e570800000000000000
+      internalID: 8494052728283145126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_45
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 144
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1bfb1dd2679b710800000000000000
+      internalID: 1709527472728420789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Mode2_35
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 194
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3795ed2dea6655b49ad7df900ad3ba41
+      internalID: -38441284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7202bec27b2a07441bcea632a4e37569
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Mode2_0: -6973380106780880084
+      Dark Mode2_1: -1319732980207079788
+      Dark Mode2_10: 3713727562397591649
+      Dark Mode2_11: 3110100248674542998
+      Dark Mode2_12: -5887081559837369312
+      Dark Mode2_13: -506695054910109813
+      Dark Mode2_14: -8285832413274638628
+      Dark Mode2_15: -2377382378230166378
+      Dark Mode2_16: -565926364633398984
+      Dark Mode2_17: -213934851640260997
+      Dark Mode2_18: -3575016722257728946
+      Dark Mode2_19: -2890810839957049029
+      Dark Mode2_2: -1733406574184508738
+      Dark Mode2_20: 2714734210794227761
+      Dark Mode2_21: 3436206081912882537
+      Dark Mode2_22: -7711876864053388243
+      Dark Mode2_23: -1113744281523362884
+      Dark Mode2_24: -797783945286362711
+      Dark Mode2_25: -4793681815985549873
+      Dark Mode2_26: -5025706528813252723
+      Dark Mode2_27: 5006210971954962069
+      Dark Mode2_28: 1527492601966013217
+      Dark Mode2_29: -8373119525897384732
+      Dark Mode2_3: -2025114973859763117
+      Dark Mode2_30: -8282438370556025159
+      Dark Mode2_31: 9043087833549989679
+      Dark Mode2_32: 3772055208011281679
+      Dark Mode2_33: 7699965709620857165
+      Dark Mode2_34: 5614392299110387525
+      Dark Mode2_35: -38441284
+      Dark Mode2_36: 1321195108022611587
+      Dark Mode2_37: -489923322529348721
+      Dark Mode2_38: 7101220650606457407
+      Dark Mode2_39: -8668066665528780688
+      Dark Mode2_4: -909550687740571037
+      Dark Mode2_40: -7751584905690270041
+      Dark Mode2_41: -1537974455295242261
+      Dark Mode2_42: -8400574628494108679
+      Dark Mode2_43: 4562520936363684310
+      Dark Mode2_430: 2472720988618484788
+      Dark Mode2_44: -1514174374572799080
+      Dark Mode2_45: 1709527472728420789
+      Dark Mode2_46: 890726676185463097
+      Dark Mode2_47: 8494052728283145126
+      Dark Mode2_5: -6472227427792731835
+      Dark Mode2_6: 932631251661026245
+      Dark Mode2_7: -791846904355751000
+      Dark Mode2_8: 5455873020540040145
+      Dark Mode2_9: -68437731649267509
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['testdeleteallpointers_0',['TestDeleteAllPointers',['../class_idenguefy_1_1_developer_1_1_developer.html#a2a7a00502843eaa9858643d33f1e5f06',1,'Idenguefy::Developer::Developer']]],
+  ['tipcontroller_1',['TipController',['../class_idenguefy_1_1_controllers_1_1_tip_controller.html#aaa49837e49e95f9e5513a563b3725263',1,'Idenguefy::Controllers::TipController']]],
+  ['toggleclusterinfo_2',['ToggleClusterInfo',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a13bb098fd6f5d2d7e4fffff64fcbc6d5',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['toggleclusterlist_3',['ToggleClusterList',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#ad8b770373e40744a9686a799aaa1b933',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['toggledualpointerview_4',['ToggleDualPointerView',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a475931f4c63d4be5a2195370c564de22',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['togglefab_5',['ToggleFAB',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a0882cef1dd8e40ac24bf3a268b322e9d',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['toggleinappalertview_6',['ToggleInAppAlertView',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#ad13f5d50554afe219d9f31ab24db5ae2',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['toggleindoorhealthtips_7',['ToggleIndoorHealthTips',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a37ffe51429a2be26627bec3e599f3e41',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['togglelanguage_8',['ToggleLanguage',['../class_idenguefy_1_1_controllers_1_1_localization_manager.html#abdcacaaeea8ea2fad29ece4daed622ef',1,'Idenguefy::Controllers::LocalizationManager']]],
+  ['togglenotifcation_9',['ToggleNotifcation',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#afacad2a5aa0525f21009670b16f7f6b3',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['toggleoutdoorhealthtips_10',['ToggleOutdoorHealthTips',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#adb761bd3c9f32a0d3b0cbb5146016bb4',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['togglepointerinfo_11',['TogglePointerInfo',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a70d9bc83e2b8232c0aa62f211a5b1fa6',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['togglepointerlist_12',['TogglePointerList',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#aa89717ae95cc2bbe34f058df6628d8c9',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['togglereadtouch_13',['ToggleReadTouch',['../class_idenguefy_1_1_boundaries_1_1_map_view.html#a2272ac7b696ea6197f94efd7c6500dce',1,'Idenguefy::Boundaries::MapView']]],
+  ['togglesettings_14',['ToggleSettings',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a983168c294cc8c83592f22030240972e',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['toggleshowwhichhealthtips_15',['ToggleShowWhichHealthTips',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#acb7ad2601748f7950ce4770d25d70526',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['toggletheme_16',['ToggleTheme',['../class_idenguefy_1_1_controllers_1_1_theme_manager.html#a9e758a4cf6c510635652949e69883165',1,'Idenguefy::Controllers::ThemeManager']]],
+  ['translatetextasync_17',['TranslateTextAsync',['../class_idenguefy_1_1_controllers_1_1_localization_manager.html#a9f05035da251c7991223da0ae5e8332c',1,'Idenguefy::Controllers::LocalizationManager']]]
+];

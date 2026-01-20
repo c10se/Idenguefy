@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['imagetargets_0',['imageTargets',['../class_idenguefy_1_1_boundaries_1_1_theme_applier.html#a05ba3e2288895846015baf96e1c091a7',1,'Idenguefy::Boundaries::ThemeApplier']]],
+  ['inappalertanimator_1',['inAppAlertAnimator',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a514da8278f06ea4f778c3ac394940cc9',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['inappalertisexpanded_2',['inAppAlertIsExpanded',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#ac6f107c45cec6ab5c3b86e50b4e3fdc2',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['indoorhealthtipsanimator_3',['indoorHealthTipsAnimator',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a7f0d5a3bc137e144237d3b6580161d76',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['indoorhealthtipsisexpanded_4',['indoorHealthTipsIsExpanded',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a192c091af61aac263e390ebbe4237400',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['indoorpanel_5',['indoorPanel',['../class_idenguefy_1_1_boundaries_1_1_preventive_health_tips_view.html#aa9dec20728bfa005498f0ccb08c3802a',1,'Idenguefy::Boundaries::PreventiveHealthTipsView']]],
+  ['indoortipscontainer_6',['indoorTipsContainer',['../class_idenguefy_1_1_boundaries_1_1_preventive_health_tips_view.html#a889809dbcfa53cf8bc527f0f5b2d3a43',1,'Idenguefy::Boundaries::PreventiveHealthTipsView']]],
+  ['inputbackgroundcolor_7',['inputBackgroundColor',['../class_idenguefy_1_1_entities_1_1_theme_data.html#a6f5aa1b629e76f0e743db670ffe244fa',1,'Idenguefy::Entities::ThemeData']]],
+  ['inputfieldtargets_8',['inputFieldTargets',['../class_idenguefy_1_1_boundaries_1_1_theme_applier.html#aea4b77d57fa8ebb4d70ff112713cad5b',1,'Idenguefy::Boundaries::ThemeApplier']]],
+  ['inputtextcolor_9',['inputTextColor',['../class_idenguefy_1_1_entities_1_1_theme_data.html#a52b04a2d18d0ce7ce5704e97410551c9',1,'Idenguefy::Entities::ThemeData']]],
+  ['instance_10',['Instance',['../class_idenguefy_1_1_controllers_1_1_localization_manager.html#aa58f19bf83a9eb6f068b7aab6b6dbed3',1,'Idenguefy.Controllers.LocalizationManager.Instance'],['../class_idenguefy_1_1_controllers_1_1_theme_manager.html#a34a86c1dc8ebea378bc947f2807d1665',1,'Idenguefy.Controllers.ThemeManager.Instance']]],
+  ['isdarkmode_11',['IsDarkMode',['../class_idenguefy_1_1_entities_1_1_settings.html#a2a4ed09b93c4c7f39f90376641de4df9',1,'Idenguefy::Entities::Settings']]],
+  ['isdarkmode_12',['isDarkMode',['../class_idenguefy_1_1_controllers_1_1_theme_manager.html#a5c95bac3cddc7eab5415cbe34978164a',1,'Idenguefy::Controllers::ThemeManager']]],
+  ['iseditmode_13',['isEditMode',['../class_idenguefy_1_1_boundaries_1_1_pointer_view.html#afd6ff7b9cd5f3710375abc7203c6abe0',1,'Idenguefy::Boundaries::PointerView']]],
+  ['isholding_14',['isHolding',['../class_idenguefy_1_1_boundaries_1_1_map_view.html#a87102fcfe0f0dde11b1ee9911a943bae',1,'Idenguefy::Boundaries::MapView']]],
+  ['iswatching_15',['isWatching',['../class_idenguefy_1_1_boundaries_1_1_localized_text.html#a872b361842f20d541a3520204c76ab95',1,'Idenguefy::Boundaries::LocalizedText']]],
+  ['items_16',['items',['../class_idenguefy_1_1_controllers_1_1_localization_manager_1_1_translation_wrapper.html#a47dc42c5afd717cb1a8cf9f575be0277',1,'Idenguefy::Controllers::LocalizationManager::TranslationWrapper']]]
+];

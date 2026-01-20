@@ -1,0 +1,1406 @@
+fileFormatVersion: 2
+guid: 754cf7a5079dbc045beeb6b11c0d190d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 648838159809971121
+    second: Light Mode2_0
+  - first:
+      213: -3853274459909003404
+    second: Light Mode2_1
+  - first:
+      213: -1005411139155455130
+    second: Light Mode2_2
+  - first:
+      213: 224660458126551610
+    second: Light Mode2_3
+  - first:
+      213: 2750878141229455356
+    second: Light Mode2_4
+  - first:
+      213: 665429377308572047
+    second: Light Mode2_5
+  - first:
+      213: 7500560125927566911
+    second: Light Mode2_6
+  - first:
+      213: 9023947696721997221
+    second: Light Mode2_7
+  - first:
+      213: 1428526478640311705
+    second: Light Mode2_8
+  - first:
+      213: -3624550422810202119
+    second: Light Mode2_9
+  - first:
+      213: -1293280450051381783
+    second: Light Mode2_10
+  - first:
+      213: 4749346353152176144
+    second: Light Mode2_11
+  - first:
+      213: -1921921439819143057
+    second: Light Mode2_12
+  - first:
+      213: 1104856586987662866
+    second: Light Mode2_13
+  - first:
+      213: -8302422220265697684
+    second: Light Mode2_14
+  - first:
+      213: 1005130207385430743
+    second: Light Mode2_15
+  - first:
+      213: -3130199498405555434
+    second: Light Mode2_16
+  - first:
+      213: 144789311337723942
+    second: Light Mode2_17
+  - first:
+      213: 7698078331896429474
+    second: Light Mode2_18
+  - first:
+      213: 3274418586876325520
+    second: Light Mode2_19
+  - first:
+      213: 6201561022567997371
+    second: Light Mode2_20
+  - first:
+      213: -2285841605197034343
+    second: Light Mode2_21
+  - first:
+      213: 3546136700786692686
+    second: Light Mode2_22
+  - first:
+      213: -3540434857959184549
+    second: Light Mode2_23
+  - first:
+      213: 3409490782676903430
+    second: Light Mode2_24
+  - first:
+      213: 6566389357806309042
+    second: Light Mode2_25
+  - first:
+      213: -9052673971698844937
+    second: Light Mode2_26
+  - first:
+      213: 3825864394768812819
+    second: Light Mode2_27
+  - first:
+      213: 3710311533925405736
+    second: Light Mode2_28
+  - first:
+      213: -1607355551674693570
+    second: Light Mode2_29
+  - first:
+      213: 4328966410419295818
+    second: Light Mode2_30
+  - first:
+      213: 4886938397830238924
+    second: Light Mode2_31
+  - first:
+      213: 8241947641886378428
+    second: Light Mode2_32
+  - first:
+      213: 5882371531512355101
+    second: Light Mode2_33
+  - first:
+      213: 5543967832792960642
+    second: Light Mode2_34
+  - first:
+      213: -5131513012973184697
+    second: Light Mode2_35
+  - first:
+      213: 4410947251822382126
+    second: Light Mode2_36
+  - first:
+      213: -3122358311599300454
+    second: Light Mode2_37
+  - first:
+      213: -3974385455477052032
+    second: Light Mode2_38
+  - first:
+      213: -2532653260787021830
+    second: Light Mode2_39
+  - first:
+      213: 8921653751410574143
+    second: Light Mode2_40
+  - first:
+      213: 645331124889320731
+    second: Light Mode2_41
+  - first:
+      213: -8026229842064032959
+    second: Light Mode2_42
+  - first:
+      213: -1834438322168916397
+    second: Light Mode2_43
+  - first:
+      213: -1320234140617028192
+    second: Light Mode2_44
+  - first:
+      213: 153448023149911324
+    second: Light Mode2_45
+  - first:
+      213: -978852400548925661
+    second: Light Mode2_46
+  - first:
+      213: -375731289109168176
+    second: Light Mode2_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light Mode2_0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1820
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b301306ed2210900800000000000000
+      internalID: 648838159809971121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1814
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477e9035b4b668ac0800000000000000
+      internalID: -3853274459909003404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1816
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6631b6555ef0c02f0800000000000000
+      internalID: -1005411139155455130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1814
+        width: 205
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3aa5b11f772e1300800000000000000
+      internalID: 224660458126551610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_4
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1812
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf75e5c38151d2620800000000000000
+      internalID: 2750878141229455356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1816
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8936993e741c3900800000000000000
+      internalID: 665429377308572047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_6
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1816
+        width: 203
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e2f52e1b7571860800000000000000
+      internalID: 7500560125927566911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_7
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1812
+        width: 203
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ada1d68e908b3d70800000000000000
+      internalID: 9023947696721997221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_8
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1829
+        width: 1149
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d689f734523d310800000000000000
+      internalID: 1428526478640311705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1582
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffe7e9189203bdc0800000000000000
+      internalID: -3624550422810202119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1582
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5eab368485d0ee0800000000000000
+      internalID: -1293280450051381783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1574
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010bee6585119e140800000000000000
+      internalID: 4749346353152176144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_12
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1576
+        width: 206
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f686f5d12a6f355e0800000000000000
+      internalID: -1921921439819143057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_13
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1576
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e662b463d355f00800000000000000
+      internalID: 1104856586987662866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_14
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1576
+        width: 203
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ec0c19afed7cc80800000000000000
+      internalID: -8302422220265697684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_15
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1576
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da29342990f2fd00800000000000000
+      internalID: 1005130207385430743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_16
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1582
+        width: 1148
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135e65042c4f84d0800000000000000
+      internalID: -3130199498405555434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1387
+        width: 885
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628fe8d8c15620200800000000000000
+      internalID: 144789311337723942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_18
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1362
+        width: 877
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 120, y: 0, z: 120, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab71d9e47115da60800000000000000
+      internalID: 7698078331896429474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_19
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1390
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e23bc2b52117d20800000000000000
+      internalID: 3274418586876325520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_20
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 278
+        width: 1148
+        height: 1227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd21b84ee501650800000000000000
+      internalID: 6201561022567997371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1310
+        width: 888
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c0c65cb2f0740e0800000000000000
+      internalID: -2285841605197034343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_22
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 292
+        width: 875
+        height: 1051
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42dd578a88663130800000000000000
+      internalID: 3546136700786692686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1197
+        width: 579
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57aee43149dddec0800000000000000
+      internalID: -3540434857959184549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_24
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1184
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606ec667dc1f05f20800000000000000
+      internalID: 3409490782676903430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_25
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 372
+        width: 39
+        height: 876
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be43f8a450802b50800000000000000
+      internalID: 6566389357806309042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_26
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 1060
+        width: 40
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa37716cf07e5280800000000000000
+      internalID: -9052673971698844937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_27
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 430
+        width: 40
+        height: 878
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b82019563381530800000000000000
+      internalID: 3825864394768812819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_28
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 1120
+        width: 41
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82498a99eacad7330800000000000000
+      internalID: 3710311533925405736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1043
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e388da254a681b9e0800000000000000
+      internalID: -1607355551674693570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 998
+        width: 362
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46d3a1b304931c30800000000000000
+      internalID: 4328966410419295818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 952
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc253e9a494e1d340800000000000000
+      internalID: 4886938397830238924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 843
+        width: 364
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9810c66b7416270800000000000000
+      internalID: 8241947641886378428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_33
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 862
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d191aa4edb162a150800000000000000
+      internalID: 5882371531512355101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 687
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e01d7ee5120fc40800000000000000
+      internalID: 5543967832792960642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 783
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74950754a1439c8b0800000000000000
+      internalID: -5131513012973184697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_36
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 721
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ccbd3c725d63d30800000000000000
+      internalID: 4410947251822382126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_37
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 623
+        width: 259
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90a2a798a72ba4d0800000000000000
+      internalID: -3122358311599300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_38
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 638
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dafc54c7528d8c0800000000000000
+      internalID: -3974385455477052032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 569
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70e8327453adcd0800000000000000
+      internalID: -2532653260787021830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_40
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 578
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33cbd561d410db70800000000000000
+      internalID: 8921653751410574143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_41
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 457
+        width: 259
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1df78d2d3da4f800800000000000000
+      internalID: 645331124889320731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 427
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b3222cb7a1d9090800000000000000
+      internalID: -8026229842064032959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 428
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35612c4b014ca86e0800000000000000
+      internalID: -1834438322168916397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_44
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 475
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0adcd244b069dade0800000000000000
+      internalID: -1320234140617028192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 303
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d165ff928212200800000000000000
+      internalID: 153448023149911324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_46
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 108
+        width: 212
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2eb98dea6a62f0800000000000000
+      internalID: -978852400548925661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Mode2_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 115
+        width: 210
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dff5ad126229caf0800000000000000
+      internalID: -375731289109168176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9c324c176fd29e14fb7f0d6a31acee16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Light Mode2_0: 648838159809971121
+      Light Mode2_1: -3853274459909003404
+      Light Mode2_10: -1293280450051381783
+      Light Mode2_11: 4749346353152176144
+      Light Mode2_12: -1921921439819143057
+      Light Mode2_13: 1104856586987662866
+      Light Mode2_14: -8302422220265697684
+      Light Mode2_15: 1005130207385430743
+      Light Mode2_16: -3130199498405555434
+      Light Mode2_17: 144789311337723942
+      Light Mode2_18: 7698078331896429474
+      Light Mode2_19: 3274418586876325520
+      Light Mode2_2: -1005411139155455130
+      Light Mode2_20: 6201561022567997371
+      Light Mode2_21: -2285841605197034343
+      Light Mode2_22: 3546136700786692686
+      Light Mode2_23: -3540434857959184549
+      Light Mode2_24: 3409490782676903430
+      Light Mode2_25: 6566389357806309042
+      Light Mode2_26: -9052673971698844937
+      Light Mode2_27: 3825864394768812819
+      Light Mode2_28: 3710311533925405736
+      Light Mode2_29: -1607355551674693570
+      Light Mode2_3: 224660458126551610
+      Light Mode2_30: 4328966410419295818
+      Light Mode2_31: 4886938397830238924
+      Light Mode2_32: 8241947641886378428
+      Light Mode2_33: 5882371531512355101
+      Light Mode2_34: 5543967832792960642
+      Light Mode2_35: -5131513012973184697
+      Light Mode2_36: 4410947251822382126
+      Light Mode2_37: -3122358311599300454
+      Light Mode2_38: -3974385455477052032
+      Light Mode2_39: -2532653260787021830
+      Light Mode2_4: 2750878141229455356
+      Light Mode2_40: 8921653751410574143
+      Light Mode2_41: 645331124889320731
+      Light Mode2_42: -8026229842064032959
+      Light Mode2_43: -1834438322168916397
+      Light Mode2_44: -1320234140617028192
+      Light Mode2_45: 153448023149911324
+      Light Mode2_46: -978852400548925661
+      Light Mode2_47: -375731289109168176
+      Light Mode2_5: 665429377308572047
+      Light Mode2_6: 7500560125927566911
+      Light Mode2_7: 9023947696721997221
+      Light Mode2_8: 1428526478640311705
+      Light Mode2_9: -3624550422810202119
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

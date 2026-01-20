@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['circlesprite_0',['circleSprite',['../class_idenguefy_1_1_boundaries_1_1_cluster_renderer.html#a467e43dddd535cf7983389dde2dca49b',1,'Idenguefy::Boundaries::ClusterRenderer']]],
+  ['clickedpointerid_1',['clickedPointerId',['../class_idenguefy_1_1_boundaries_1_1_pointer_view.html#a0b036013212478241311105c46bb5bfa',1,'Idenguefy::Boundaries::PointerView']]],
+  ['closeinfobutton_2',['closeInfoButton',['../class_idenguefy_1_1_boundaries_1_1_cluster_renderer.html#a76528221ae2e19e9003461d4b75609d0',1,'Idenguefy.Boundaries.ClusterRenderer.closeInfoButton'],['../class_idenguefy_1_1_boundaries_1_1_pointer_renderer.html#a08c05468926789691a439847e2d0e86b',1,'Idenguefy.Boundaries.PointerRenderer.closeInfoButton']]],
+  ['clustercontroller_3',['clusterController',['../class_idenguefy_1_1_boundaries_1_1_cluster_renderer.html#a6b4710b3ce41c0f8af4930e69e526f8d',1,'Idenguefy.Boundaries.ClusterRenderer.clusterController'],['../class_idenguefy_1_1_boundaries_1_1_cluster_view.html#aea50110bd2ed3d009b06beb244e24daf',1,'Idenguefy.Boundaries.ClusterView.clusterController'],['../class_idenguefy_1_1_boundaries_1_1_map_view.html#ad820c67b5abdb543a99d70a7cbef8b86',1,'Idenguefy.Boundaries.MapView.clusterController'],['../class_idenguefy_1_1_controllers_1_1_alert_manager.html#ab2bd2137b03937dae118e2bcd47fea49',1,'Idenguefy.Controllers.AlertManager.clusterController']]],
+  ['clusterentries_4',['clusterEntries',['../class_idenguefy_1_1_boundaries_1_1_cluster_view.html#a0bd77eb3ab910742cd83b183eebb7614',1,'Idenguefy::Boundaries::ClusterView']]],
+  ['clusterentrycontainer_5',['clusterEntryContainer',['../class_idenguefy_1_1_boundaries_1_1_cluster_view.html#ae6009af905b8cbf1939f5e5d7e5956cb',1,'Idenguefy::Boundaries::ClusterView']]],
+  ['clusterentryprefab_6',['clusterEntryPrefab',['../class_idenguefy_1_1_boundaries_1_1_cluster_view.html#af585e776b08f7b3033ed00c53a7ab74d',1,'Idenguefy::Boundaries::ClusterView']]],
+  ['clusterinfoanimator_7',['clusterInfoAnimator',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#af79bce5e0b058b3e99d32b5341812942',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['clusterinfoisexpanded_8',['clusterInfoIsExpanded',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a5e7e6386380f027d40626302d3ea1d7f',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['clusterinfopanel_9',['clusterInfoPanel',['../class_idenguefy_1_1_boundaries_1_1_cluster_renderer.html#abc330133b3138820a1bcf3881dd57692',1,'Idenguefy::Boundaries::ClusterRenderer']]],
+  ['clusterinfotext_10',['clusterInfoText',['../class_idenguefy_1_1_boundaries_1_1_cluster_renderer.html#a4c122ee56347da43211d5c2e465d8791',1,'Idenguefy::Boundaries::ClusterRenderer']]],
+  ['clusterlistanimator_11',['clusterListAnimator',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#abb4c3f8b4fa9e0c16cdc4be6d41197ee',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['clusterlistisexpanded_12',['clusterListIsExpanded',['../class_idenguefy_1_1_boundaries_1_1_animation_manager.html#a8f739ea4fa5fb1d8d96a7d02c1c0487e',1,'Idenguefy::Boundaries::AnimationManager']]],
+  ['clusterrenderer_13',['clusterRenderer',['../class_idenguefy_1_1_boundaries_1_1_cluster_view.html#a453708b262a941b061ca2c48bd329b83',1,'Idenguefy.Boundaries.ClusterView.clusterRenderer'],['../class_idenguefy_1_1_boundaries_1_1_map_view.html#a69d48ed5981976aa5bb14d7d592c517c',1,'Idenguefy.Boundaries.MapView.clusterRenderer']]],
+  ['code_14',['code',['../class_idenguefy_1_1_controllers_1_1_n_e_a___cluster___a_p_i___handler_1_1_api_response.html#aecda9e0877eb2730a2d74a9be4bf8f1d',1,'Idenguefy::Controllers::NEA_Cluster_API_Handler::ApiResponse']]],
+  ['coord_15',['Coord',['../class_idenguefy_1_1_boundaries_1_1_map_view.html#a86a25f55466bd1db417f6c009d93b071',1,'Idenguefy::Boundaries::MapView']]],
+  ['country_16',['country',['../class_idenguefy_1_1_controllers_1_1_m_t_search_a_p_i_handler.html#ae08387b6b9d6f2daefb371e7487bd8f8',1,'Idenguefy::Controllers::MTSearchAPIHandler']]],
+  ['currentlanguagecode_17',['currentLanguageCode',['../class_idenguefy_1_1_controllers_1_1_localization_manager.html#aceddfaeba27f5ec6be15bb8c5cb1e387',1,'Idenguefy::Controllers::LocalizationManager']]],
+  ['currentselectedcircle_18',['currentSelectedCircle',['../class_idenguefy_1_1_boundaries_1_1_cluster_renderer.html#a6c3b962efd9ca2c7b297818ccac970d3',1,'Idenguefy::Boundaries::ClusterRenderer']]],
+  ['currentselectedpointer_19',['currentSelectedPointer',['../class_idenguefy_1_1_boundaries_1_1_pointer_renderer.html#acb93c64e9c51135ef8326a76f8f9db1a',1,'Idenguefy::Boundaries::PointerRenderer']]],
+  ['currenttheme_20',['currentTheme',['../class_idenguefy_1_1_boundaries_1_1_theme_applier.html#a9fe6f5d9b37b2dd4129ac0c3593c4998',1,'Idenguefy::Boundaries::ThemeApplier']]],
+  ['currentzoom_21',['currentZoom',['../class_idenguefy_1_1_controllers_1_1_zoom_controller.html#aa1ef326d931308da30c7bbb3a485d269',1,'Idenguefy::Controllers::ZoomController']]]
+];
